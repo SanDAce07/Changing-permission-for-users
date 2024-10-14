@@ -1,32 +1,26 @@
 # ASSIGNMNENT OF VLAN AND VLAN TRUNKING
 # PROJECTNAME
 
-## Objective
-[Brief Objective - Remove this afterwards]
+## TO ASSIGN VLAN TO DIFFERENT END DEVICES AND CONFIGURE THE SWITCH FOR INTER VLAN COMMUNICATION
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+THIS PROJECT IS A NETWORK SIMULATION OF A SCHOOL WITH MULTIPLE DEPARTMENT AND MULTIPLE END HOST. MY MAIN GOAL WITH THIS PROJECT IS TO ASSIGN VLAN SETTING FOR END DEVICES ON DIFFERENT SWITCH AND ENABLE INTER VLAN ROUTING BETWEEN DEVICES
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Advanced understanding of VLAN CONCEPTS AND VLAN CONFIGURATION
+- ADVANCED UNDERSTANDING OF VLAN AND INTER VLAN COMMUNICATION
+- ABILITTY TO IDENTIFY COMMUNICATION BETWEEN MULTIPLE VLANS
+- ENHANCED KNOWLEDGE OF SUBNETTING WITH IPV4 ADDRESS
+- ABILITY TO FIND RESOURCES TO HELP ME WITH SWITCH CONFIGURATION
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
+- PACKET TRACER FOR NETWORK SIMULATION
+- ENDPOINT DEVICES THAT ARE PART OF DIFFERENT VLANS
+- CISCO ROUTER AND SWITCH FOR NETWORK COMMUNICATION
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
+1. START BY FINDING THE DEPARTMENTS YOU WANT TO SEGMENT IN THE SCHOOL
+2. CONFIGURE SWITCH AND SWITCHPORT TO YOUR SPECIFIC VLAN (PREFERABLY GET THE SWITCHPORT AWAY FROM VLAN 1 FOR SECURITY REASONS)
 Example below.
 
 *Ref 1: Network Diagram*
